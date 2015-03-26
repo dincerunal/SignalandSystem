@@ -1,0 +1,26 @@
+C:\Users\M.Mert\Desktop\Emlak\Signal_Project\Signal_Project\bin\Debug\Signal_Project.exe.config
+C:\Users\M.Mert\Desktop\Emlak\Signal_Project\Signal_Project\bin\Debug\Signal_Project.exe
+C:\Users\M.Mert\Desktop\Emlak\Signal_Project\Signal_Project\bin\Debug\Signal_Project.pdb
+C:\Users\M.Mert\Desktop\Emlak\Signal_Project\Signal_Project\obj\Debug\Signal_Project.Properties.Resources.resources
+C:\Users\M.Mert\Desktop\Emlak\Signal_Project\Signal_Project\obj\Debug\Signal_Project.csproj.GenerateResource.Cache
+C:\Users\M.Mert\Desktop\Emlak\Signal_Project\Signal_Project\obj\Debug\Signal_Project.exe
+C:\Users\M.Mert\Desktop\Emlak\Signal_Project\Signal_Project\obj\Debug\Signal_Project.pdb
+C:\Users\M.Mert\Desktop\Emlak\Signal_Project\Signal_Project\obj\Debug\Signal_Project.Sgnal_Project.resources
+C:\Users\dincer\Desktop\Signal_Project\Signal_Project\bin\Debug\Signal_Project.exe.config
+C:\Users\dincer\Desktop\Signal_Project\Signal_Project\obj\Debug\Signal_Project.exe
+C:\Users\dincer\Desktop\Signal_Project\Signal_Project\obj\Debug\Signal_Project.pdb
+C:\Users\dincer\Desktop\Signal_Project\Signal_Project\bin\Debug\Signal_Project.exe
+C:\Users\dincer\Desktop\Signal_Project\Signal_Project\bin\Debug\Signal_Project.pdb
+C:\Users\dincer\Desktop\Signal_Project\Signal_Project\obj\Debug\Signal_Project.csprojResolveAssemblyReference.cache
+C:\Users\dincer\Desktop\Signal_Project\Signal_Project\obj\Debug\Signal_Project.Sgnal_Project.resources
+C:\Users\dincer\Desktop\Signal_Project\Signal_Project\obj\Debug\Signal_Project.Properties.Resources.resources
+C:\Users\dincer\Desktop\Signal_Project\Signal_Project\obj\Debug\Signal_Project.csproj.GenerateResource.Cache
+D:\dincer_unal\dincer_ders notları\signal and system\signal_and_system_project\Signal_Project_son\Signal_Project\bin\Debug\Signal_Project.exe.config
+D:\dincer_unal\dincer_ders notları\signal and system\signal_and_system_project\Signal_Project_son\Signal_Project\obj\Debug\Signal_Project.exe
+D:\dincer_unal\dincer_ders notları\signal and system\signal_and_system_project\Signal_Project_son\Signal_Project\obj\Debug\Signal_Project.pdb
+D:\dincer_unal\dincer_ders notları\signal and system\signal_and_system_project\Signal_Project_son\Signal_Project\bin\Debug\Signal_Project.exe
+D:\dincer_unal\dincer_ders notları\signal and system\signal_and_system_project\Signal_Project_son\Signal_Project\bin\Debug\Signal_Project.pdb
+D:\dincer_unal\dincer_ders notları\signal and system\signal_and_system_project\Signal_Project_son\Signal_Project\obj\Debug\Signal_Project.csprojResolveAssemblyReference.cache
+D:\dincer_unal\dincer_ders notları\signal and system\signal_and_system_project\Signal_Project_son\Signal_Project\obj\Debug\Signal_Project.Sgnal_Project.resources
+D:\dincer_unal\dincer_ders notları\signal and system\signal_and_system_project\Signal_Project_son\Signal_Project\obj\Debug\Signal_Project.Properties.Resources.resources
+D:\dincer_unal\dincer_ders notları\signal and system\signal_and_system_project\Signal_Project_son\Signal_Project\obj\Debug\Signal_Project.csproj.GenerateResource.Cache
